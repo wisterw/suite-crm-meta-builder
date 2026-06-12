@@ -1,0 +1,17 @@
+{
+  "name": "suitecrm-meta-upserter",
+  "version": "0.1.0",
+  "description": "Utility to upsert SuiteCRM custom field PHP and SQL configuration from CSV metadata",
+  "main": "bin/UpsertCustomFields.js",
+  "bin": {
+    "UpsertCustomFields": "bin/UpsertCustomFields.js"
+  },
+  "scripts": {
+    "start": "node bin/UpsertCustomFields.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  }
+}

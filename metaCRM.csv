@@ -1,0 +1,34 @@
+module,fieldname,states,label,fieldtype,fieldlen,requiredTF
+people,first name,,,,,
+people,middle,"DC, OK, AK",,,,
+people,last name,,,,,
+people,suffix,,,,,
+people,other names,,,,,
+people,security_question_1,ID,Security Question 1,text,255,FALSE
+people,security_answer_1,ID,Answer 1,text,255,FALSE
+people,security_question_2,ID,Security Question 2,text,255,FALSE
+people,security_answer_2,ID,Answer 2,text,255,FALSE
+people,security_question_3,ID,Security Question 3,text,255,FALSE
+people,security_answer_3,ID,Answer 3,text,255,FALSE
+people,experiencing homelessness yn,,,,,
+people,address line 1,,,,,
+people,address line 2,,,,,
+people,benefit,,,,,
+people,city,,,,,
+people,state,,,,,
+people,zip,,,,,
+people,contact via,,,,,
+people,dob,,,,,
+people,prior name,,,,,
+people,social security number,,,,,
+people,disability,,,,,
+people,hard of hearing,,,,,
+people,student yn,,,,,
+applications,,,,,,
+cases,,,,,,
+people,email,,,,,
+people,password_encrypted,,,,,
+people,phone_mobile,,,,,
+people,preferred_language_read,,,,,
+people,preferred_language_speak,,,,,
+people,preferred_language_online,,,,,
