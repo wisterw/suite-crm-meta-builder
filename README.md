@@ -15,3 +15,5 @@ node bin/UpsertCustomFields.js AK metadata.csv ./outputDir
 ```
 
 This will filter rows where the `states` column includes `AK`, then update or append the PHP and SQL snippets in `./outputDir/config.php` and `./outputDir/config.sql`.
+
+Run config.php and config.sql according to SuiteCRM administrator instructions.
